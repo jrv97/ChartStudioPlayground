@@ -1,5 +1,5 @@
 # Datos del Estudiante
-- [Jorge Roddríguez de la Vega](mailto:z22rocaj@uco.es)
+- [Jorge Rodríguez de la Vega](mailto:z22rocaj@uco.es)
 
 - Reportes generados:
     
