@@ -1,6 +1,6 @@
 # Datos del Estudiante
 - [Jorge Rodríguez de la Vega](mailto:z22rocaj@uco.es)
-
+- Repositorio: https://github.com/jrv97/ChartStudioPlayground/tree/main
 - Reportes generados:
     
     - https://chart-studio.plotly.com/~jdelavega/18/#/
